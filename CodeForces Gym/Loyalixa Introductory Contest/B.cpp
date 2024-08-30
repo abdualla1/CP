@@ -41,7 +41,7 @@ vector<int> find_next_smaller_price(vector<gas> &stations) {
 }
 
 void solve() {
-    int n, m, k;gi
+    int n, m, k;
     cin >> n >> m >> k;
     vector<gas> a(m);
     for (auto &i: a)
