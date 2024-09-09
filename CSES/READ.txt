@@ -1,0 +1,5 @@
+I am Solving them on this link not the official problem set link for sake of simplicity of naming files 
+https://codeforces.com/gym/102961
+
+here is the original link tho
+https://cses.fi/problemset/list/
